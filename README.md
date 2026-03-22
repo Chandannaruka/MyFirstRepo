@@ -1,3 +1,4 @@
 # MyFirstRepo
 TestingRepo
-Author Chandan 
+<br>
+Author <b>name</b> Chandan 
